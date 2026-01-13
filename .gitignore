@@ -1,0 +1,7 @@
+# Ignore local config
+appsettings.json
+appsettings.Development.json
+secrets.json
+!wwwroot/**/*.js
+!wwwroot/**/*.html
+!wwwroot/**/*.css
