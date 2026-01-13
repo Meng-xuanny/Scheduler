@@ -70,8 +70,9 @@ document.getElementById("signInForm").addEventListener("submit", async (e) => {
 
     const client = await res.json();
     localStorage.setItem("clientId", client.id);
-    setAuthState("AUTHENTICATED");
-    enableMainApp(client.id);
+
+    const ok = await enableMainApp(client.id);
+    setAuthState(ok ? AuthState.AUTHENTICATED : AuthState.UNAUTHENTICATED);
   } catch (err) {
     console.error(err);
     alert("Error signing in.");
@@ -101,7 +102,10 @@ document.getElementById("signUpForm").addEventListener("submit", async (e) => {
 
     const created = await res.json();
     localStorage.setItem("clientId", created.id);
-    enableMainApp(created.id); // ✅ pass clientId
+
+    // Wait for enableMainApp to finish
+    const ok = await enableMainApp(created.id);
+    setAuthState(ok ? AuthState.AUTHENTICATED : AuthState.UNAUTHENTICATED);
   } catch (err) {
     console.error(err);
     alert("Error signing up.");

@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Community Roots</title>
+    <style>
+      /* Resetting margins and paddings */
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
+      /* Basic styling for the body */
+      body {
+        font-family: Arial, sans-serif;
+        line-height: 1.6;
+        color: #333;
+        background-color: #fef6e4;
+      }
+
+      /* Header Section */
+      header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 20px;
+        background-color: #f1c40f;
+      }
+
+      header img {
+        height: 50px;
+        border-radius: 10px;
+      }
+
+      header .mission {
+        font-size: 1.5rem;
+        color: #2c3e50;
+        font-weight: bold;
+        text-align: center;
+        flex-grow: 1;
+      }
+
+      header .contact {
+        font-size: 1rem;
+        color: #2c3e50;
+      }
+
+      /* Main Section */
+      .main {
+        padding: 20px;
+        text-align: center;
+      }
+
+      .main h1 {
+        font-size: 2rem;
+        margin-bottom: 10px;
+        color: #2c3e50;
+      }
+
+      .main p {
+        font-size: 1.2rem;
+        margin-bottom: 20px;
+        color: #7f8c8d;
+      }
+
+      .cta-btn {
+        background-color: #27ae60;
+        color: white;
+        padding: 10px 20px;
+        font-size: 1.2rem;
+        text-decoration: none;
+        border-radius: 5px;
+      }
+
+      .cta-btn:hover {
+        background-color: #2ecc71;
+      }
+
+      /* Image Section */
+      .image-section {
+        margin: 20px 0;
+      }
+
+      .image-section img {
+        width: 100%;
+        max-width: 500px;
+        height: auto;
+        border-radius: 10px;
+      }
+
+      .portal-button {
+        display: inline-block;
+        padding: 20px 40px;
+        margin: 20px;
+        font-size: 18px;
+        font-weight: bold;
+        color: white;
+        text-decoration: none;
+        border-radius: 8px;
+        transition: transform 0.2s, box-shadow 0.2s;
+      }
+
+      .portal-button:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+      }
+
+      .admin {
+        background-color: #3b82f6;
+      } /* blue */
+      .client {
+        background-color: #74b816;
+      } /* green */
+      .provider {
+        background-color: #407f46;
+      } /* darker green */
+
+      /* Footer Section */
+      footer {
+        background-color: #2c3e50;
+        color: white;
+        text-align: center;
+        padding: 15px 0;
+        width: 100%;
+        margin-top: 5rem;
+      }
+
+      footer .contact {
+        font-size: 1rem;
+      }
+
+      /* Responsive Design */
+      @media (max-width: 768px) {
+        header {
+          flex-direction: column;
+          text-align: center;
+        }
+
+        .main h1 {
+          font-size: 1.5rem;
+        }
+
+        .main p {
+          font-size: 1rem;
+        }
+
+        .cta-btn {
+          font-size: 1rem;
+          padding: 8px 15px;
+        }
+
+        .image-section img {
+          width: 100%;
+          max-width: 100%;
+        }
+      }
+    </style>
+  </head>
+
+  <body>
+    <header>
+      <img src="logo.png" alt="Community Roots Logo" />
+      <!-- <div class="mission">Together we grow. Together we care</div> -->
+      <div class="contact">Phone: 0437 222 369</div>
+    </header>
+
+    <section class="main">
+      <h1>Welcome to Community Roots</h1>
+      <p>
+        We bring communities together by offering reliable, caring services
+        right at your doorstep.
+      </p>
+      <!-- Image section above the button -->
+      <div class="image-section">
+        <img src="logo.png" alt="Community Roots Image" />
+      </div>
+      <div>
+        <a href="/rootsadmin/" class="portal-button admin">Admin Portal</a>
+        <a href="/rootscare/" class="portal-button client">Client Portal</a>
+        <a href="/rootspro/" class="portal-button provider">Provider Portal</a>
+      </div>
+    </section>
+
+    <footer>
+      <div class="contact">Phone: 0437 222 369 | All rights reserved</div>
+    </footer>
+  </body>
+</html>

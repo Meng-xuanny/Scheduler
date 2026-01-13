@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "qIATYt9HP8U+VPWyQrJIeiZSnT1qTB9P05XzWWJ1JNI=",
+  "Hash": "k904Enr4OjkM+x0TIg31CXrD0eqJEuhS/kRunh/QUmM=",
   "Source": "Scheduler",
   "BasePath": "_content/Scheduler",
   "Mode": "Default",
@@ -10,59 +10,80 @@
     {
       "Name": "Scheduler/wwwroot",
       "Source": "Scheduler",
-      "ContentRoot": "/Users/mengxuan/cms/Scheduler/wwwroot/",
+      "ContentRoot": "/Users/mengxuan/Scheduler/wwwroot/",
       "BasePath": "_content/Scheduler",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "/Users/mengxuan/cms/Scheduler/obj/Debug/net9.0/compressed/0beioue5pv-7iuqcs7n2a.gz",
+      "Identity": "/Users/mengxuan/Scheduler/obj/Debug/net9.0/compressed/0beioue5pv-66t4i5jjzn.gz",
       "SourceId": "Scheduler",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mengxuan/cms/Scheduler/obj/Debug/net9.0/compressed/",
+      "ContentRoot": "/Users/mengxuan/Scheduler/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/Scheduler",
-      "RelativePath": "rootscare/styles#[.{fingerprint=7iuqcs7n2a}]?.css.gz",
+      "RelativePath": "rootscare/styles#[.{fingerprint=66t4i5jjzn}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "/Users/mengxuan/cms/Scheduler/wwwroot/rootscare/styles.css",
+      "RelatedAsset": "/Users/mengxuan/Scheduler/wwwroot/rootscare/styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "1jkwmj5t5t",
-      "Integrity": "7cGGj5jyHGkVVSGzZWwxC3KtAXfWsrl0l1Al6vLBHF8=",
+      "Fingerprint": "m19n23xw9o",
+      "Integrity": "isvVTwU5BZBdzyGOOmQkfFfmZCwps4dqHUH4uufViK0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/mengxuan/cms/Scheduler/wwwroot/rootscare/styles.css"
+      "OriginalItemSpec": "/Users/mengxuan/Scheduler/wwwroot/rootscare/styles.css"
     },
     {
-      "Identity": "/Users/mengxuan/cms/Scheduler/obj/Debug/net9.0/compressed/22mvqk53lq-1j0kv3sfsr.gz",
+      "Identity": "/Users/mengxuan/Scheduler/obj/Debug/net9.0/compressed/0pfwbdl54a-wc9qidxfm3.gz",
       "SourceId": "Scheduler",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mengxuan/cms/Scheduler/obj/Debug/net9.0/compressed/",
+      "ContentRoot": "/Users/mengxuan/Scheduler/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/Scheduler",
-      "RelativePath": "rootscare/app#[.{fingerprint=1j0kv3sfsr}]?.js.gz",
+      "RelativePath": "index#[.{fingerprint=wc9qidxfm3}]?.html.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "/Users/mengxuan/cms/Scheduler/wwwroot/rootscare/app.js",
+      "RelatedAsset": "/Users/mengxuan/Scheduler/wwwroot/index.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "ayy0nxfoox",
-      "Integrity": "DsS+21bj7H3nm92dFU5OGzOc5bplcYgz6q2U4Sn7Htw=",
+      "Fingerprint": "l18kwi8w2r",
+      "Integrity": "R3J/IvDDmgulDptbCQT4E9WC5Y9nyMfM2wg5CGq0icg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/mengxuan/cms/Scheduler/wwwroot/rootscare/app.js"
+      "OriginalItemSpec": "/Users/mengxuan/Scheduler/wwwroot/index.html"
     },
     {
-      "Identity": "/Users/mengxuan/cms/Scheduler/obj/Debug/net9.0/compressed/31x7dcw2tt-7sbv07rws3.gz",
+      "Identity": "/Users/mengxuan/Scheduler/obj/Debug/net9.0/compressed/22mvqk53lq-uh47ir1izr.gz",
       "SourceId": "Scheduler",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mengxuan/cms/Scheduler/obj/Debug/net9.0/compressed/",
+      "ContentRoot": "/Users/mengxuan/Scheduler/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/Scheduler",
+      "RelativePath": "rootscare/app#[.{fingerprint=uh47ir1izr}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/mengxuan/Scheduler/wwwroot/rootscare/app.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "frsf88yw7q",
+      "Integrity": "W4dUpNKYahkmFW/pJZyla22TJjAciumsfZxLP7wmaUc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/mengxuan/Scheduler/wwwroot/rootscare/app.js"
+    },
+    {
+      "Identity": "/Users/mengxuan/Scheduler/obj/Debug/net9.0/compressed/31x7dcw2tt-7sbv07rws3.gz",
+      "SourceId": "Scheduler",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/mengxuan/Scheduler/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/Scheduler",
       "RelativePath": "rootspro/index#[.{fingerprint=7sbv07rws3}]?.html.gz",
       "AssetKind": "All",
@@ -70,20 +91,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "/Users/mengxuan/cms/Scheduler/wwwroot/rootspro/index.html",
+      "RelatedAsset": "/Users/mengxuan/Scheduler/wwwroot/rootspro/index.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "cpm5r0g0ws",
       "Integrity": "MP0omxYFotkW3pOjm0OLytVFW2ERzQFYI413bEmZhSM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/mengxuan/cms/Scheduler/wwwroot/rootspro/index.html"
+      "OriginalItemSpec": "/Users/mengxuan/Scheduler/wwwroot/rootspro/index.html"
     },
     {
-      "Identity": "/Users/mengxuan/cms/Scheduler/obj/Debug/net9.0/compressed/66au3pnb6j-e38mmb8eai.gz",
+      "Identity": "/Users/mengxuan/Scheduler/obj/Debug/net9.0/compressed/66au3pnb6j-e38mmb8eai.gz",
       "SourceId": "Scheduler",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mengxuan/cms/Scheduler/obj/Debug/net9.0/compressed/",
+      "ContentRoot": "/Users/mengxuan/Scheduler/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/Scheduler",
       "RelativePath": "rootsadmin/index#[.{fingerprint=e38mmb8eai}]?.html.gz",
       "AssetKind": "All",
@@ -91,20 +112,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "/Users/mengxuan/cms/Scheduler/wwwroot/rootsadmin/index.html",
+      "RelatedAsset": "/Users/mengxuan/Scheduler/wwwroot/rootsadmin/index.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "2g72em51ry",
       "Integrity": "MggPGZbOZTM7hTfcFPt6TNbh5CB3Pmyx31696lqbOug=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/mengxuan/cms/Scheduler/wwwroot/rootsadmin/index.html"
+      "OriginalItemSpec": "/Users/mengxuan/Scheduler/wwwroot/rootsadmin/index.html"
     },
     {
-      "Identity": "/Users/mengxuan/cms/Scheduler/obj/Debug/net9.0/compressed/8hne2pe563-losvjo4kdx.gz",
+      "Identity": "/Users/mengxuan/Scheduler/obj/Debug/net9.0/compressed/8hne2pe563-losvjo4kdx.gz",
       "SourceId": "Scheduler",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mengxuan/cms/Scheduler/obj/Debug/net9.0/compressed/",
+      "ContentRoot": "/Users/mengxuan/Scheduler/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/Scheduler",
       "RelativePath": "rootsadmin/styles#[.{fingerprint=losvjo4kdx}]?.css.gz",
       "AssetKind": "All",
@@ -112,20 +133,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "/Users/mengxuan/cms/Scheduler/wwwroot/rootsadmin/styles.css",
+      "RelatedAsset": "/Users/mengxuan/Scheduler/wwwroot/rootsadmin/styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "5fvfyffejo",
       "Integrity": "L0WBav8J/uKJLfSyd03C4GMRMAU9tBPO0z3pNiSwf1c=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/mengxuan/cms/Scheduler/wwwroot/rootsadmin/styles.css"
+      "OriginalItemSpec": "/Users/mengxuan/Scheduler/wwwroot/rootsadmin/styles.css"
     },
     {
-      "Identity": "/Users/mengxuan/cms/Scheduler/obj/Debug/net9.0/compressed/egn1on1iew-k4x8v7lrmn.gz",
+      "Identity": "/Users/mengxuan/Scheduler/obj/Debug/net9.0/compressed/egn1on1iew-k4x8v7lrmn.gz",
       "SourceId": "Scheduler",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mengxuan/cms/Scheduler/obj/Debug/net9.0/compressed/",
+      "ContentRoot": "/Users/mengxuan/Scheduler/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/Scheduler",
       "RelativePath": "rootsadmin/script#[.{fingerprint=k4x8v7lrmn}]?.js.gz",
       "AssetKind": "All",
@@ -133,41 +154,41 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "/Users/mengxuan/cms/Scheduler/wwwroot/rootsadmin/script.js",
+      "RelatedAsset": "/Users/mengxuan/Scheduler/wwwroot/rootsadmin/script.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "rsj8wipksl",
       "Integrity": "O05fJnWNDIJo06+GQBheUf9uZGyWAaE3IfbbKSPEvPU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/mengxuan/cms/Scheduler/wwwroot/rootsadmin/script.js"
+      "OriginalItemSpec": "/Users/mengxuan/Scheduler/wwwroot/rootsadmin/script.js"
     },
     {
-      "Identity": "/Users/mengxuan/cms/Scheduler/obj/Debug/net9.0/compressed/jrhen56aza-9c46dl1wts.gz",
+      "Identity": "/Users/mengxuan/Scheduler/obj/Debug/net9.0/compressed/jrhen56aza-gt1mvjkvz2.gz",
       "SourceId": "Scheduler",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mengxuan/cms/Scheduler/obj/Debug/net9.0/compressed/",
+      "ContentRoot": "/Users/mengxuan/Scheduler/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/Scheduler",
-      "RelativePath": "rootscare/index#[.{fingerprint=9c46dl1wts}]?.html.gz",
+      "RelativePath": "rootscare/index#[.{fingerprint=gt1mvjkvz2}]?.html.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "/Users/mengxuan/cms/Scheduler/wwwroot/rootscare/index.html",
+      "RelatedAsset": "/Users/mengxuan/Scheduler/wwwroot/rootscare/index.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "vlakgynu0w",
-      "Integrity": "TcXn15xDo+CwHhYRZP2SRe/wzTLWfKRbN0yKNnDX9J0=",
+      "Fingerprint": "zikyqcabk3",
+      "Integrity": "lfkJ6xwxpjW3sdml5KcWAvGgllJAMxu00jJ74No0jQk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/mengxuan/cms/Scheduler/wwwroot/rootscare/index.html"
+      "OriginalItemSpec": "/Users/mengxuan/Scheduler/wwwroot/rootscare/index.html"
     },
     {
-      "Identity": "/Users/mengxuan/cms/Scheduler/obj/Debug/net9.0/compressed/o0xagf40b3-fctzwcj0ef.gz",
+      "Identity": "/Users/mengxuan/Scheduler/obj/Debug/net9.0/compressed/o0xagf40b3-fctzwcj0ef.gz",
       "SourceId": "Scheduler",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mengxuan/cms/Scheduler/obj/Debug/net9.0/compressed/",
+      "ContentRoot": "/Users/mengxuan/Scheduler/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/Scheduler",
       "RelativePath": "rootspro/styles#[.{fingerprint=fctzwcj0ef}]?.css.gz",
       "AssetKind": "All",
@@ -175,20 +196,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "/Users/mengxuan/cms/Scheduler/wwwroot/rootspro/styles.css",
+      "RelatedAsset": "/Users/mengxuan/Scheduler/wwwroot/rootspro/styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "x1d8su8g4d",
       "Integrity": "67eoC6u2x6upk2IfgzprFw65pbmhAQGYtELHJM6wbAI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/mengxuan/cms/Scheduler/wwwroot/rootspro/styles.css"
+      "OriginalItemSpec": "/Users/mengxuan/Scheduler/wwwroot/rootspro/styles.css"
     },
     {
-      "Identity": "/Users/mengxuan/cms/Scheduler/obj/Debug/net9.0/compressed/o1we54r10v-hd7mwvqxnz.gz",
+      "Identity": "/Users/mengxuan/Scheduler/obj/Debug/net9.0/compressed/o1we54r10v-hd7mwvqxnz.gz",
       "SourceId": "Scheduler",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mengxuan/cms/Scheduler/obj/Debug/net9.0/compressed/",
+      "ContentRoot": "/Users/mengxuan/Scheduler/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/Scheduler",
       "RelativePath": "rootspro/scripts#[.{fingerprint=hd7mwvqxnz}]?.js.gz",
       "AssetKind": "All",
@@ -196,20 +217,62 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "/Users/mengxuan/cms/Scheduler/wwwroot/rootspro/scripts.js",
+      "RelatedAsset": "/Users/mengxuan/Scheduler/wwwroot/rootspro/scripts.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "sfcm285s6l",
       "Integrity": "iGXzaGjy+YzcD29kkRuBpDrwsRqjsr93ZC6dgTvrrKk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/mengxuan/cms/Scheduler/wwwroot/rootspro/scripts.js"
+      "OriginalItemSpec": "/Users/mengxuan/Scheduler/wwwroot/rootspro/scripts.js"
     },
     {
-      "Identity": "/Users/mengxuan/cms/Scheduler/wwwroot/rootsadmin/index.html",
+      "Identity": "/Users/mengxuan/Scheduler/wwwroot/index.html",
       "SourceId": "Scheduler",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mengxuan/cms/Scheduler/wwwroot/",
+      "ContentRoot": "/Users/mengxuan/Scheduler/wwwroot/",
+      "BasePath": "_content/Scheduler",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wc9qidxfm3",
+      "Integrity": "4CfzqkWC+zM6M3k1L3CLcrrR8OBLjYpvu/kp0u70ZF4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    },
+    {
+      "Identity": "/Users/mengxuan/Scheduler/wwwroot/logo.png",
+      "SourceId": "Scheduler",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/mengxuan/Scheduler/wwwroot/",
+      "BasePath": "_content/Scheduler",
+      "RelativePath": "logo#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tbdyvdwbsw",
+      "Integrity": "+QqI4lP+DM4Fk4G/w6R3GTZJnMJyNvk9pDtb5NvY2VY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/logo.png"
+    },
+    {
+      "Identity": "/Users/mengxuan/Scheduler/wwwroot/rootsadmin/index.html",
+      "SourceId": "Scheduler",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/mengxuan/Scheduler/wwwroot/",
       "BasePath": "_content/Scheduler",
       "RelativePath": "rootsadmin/index#[.{fingerprint}]?.html",
       "AssetKind": "All",
@@ -227,10 +290,10 @@
       "OriginalItemSpec": "wwwroot/rootsadmin/index.html"
     },
     {
-      "Identity": "/Users/mengxuan/cms/Scheduler/wwwroot/rootsadmin/script.js",
+      "Identity": "/Users/mengxuan/Scheduler/wwwroot/rootsadmin/script.js",
       "SourceId": "Scheduler",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mengxuan/cms/Scheduler/wwwroot/",
+      "ContentRoot": "/Users/mengxuan/Scheduler/wwwroot/",
       "BasePath": "_content/Scheduler",
       "RelativePath": "rootsadmin/script#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -248,10 +311,10 @@
       "OriginalItemSpec": "wwwroot/rootsadmin/script.js"
     },
     {
-      "Identity": "/Users/mengxuan/cms/Scheduler/wwwroot/rootsadmin/styles.css",
+      "Identity": "/Users/mengxuan/Scheduler/wwwroot/rootsadmin/styles.css",
       "SourceId": "Scheduler",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mengxuan/cms/Scheduler/wwwroot/",
+      "ContentRoot": "/Users/mengxuan/Scheduler/wwwroot/",
       "BasePath": "_content/Scheduler",
       "RelativePath": "rootsadmin/styles#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -269,10 +332,10 @@
       "OriginalItemSpec": "wwwroot/rootsadmin/styles.css"
     },
     {
-      "Identity": "/Users/mengxuan/cms/Scheduler/wwwroot/rootscare/app.js",
+      "Identity": "/Users/mengxuan/Scheduler/wwwroot/rootscare/app.js",
       "SourceId": "Scheduler",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mengxuan/cms/Scheduler/wwwroot/",
+      "ContentRoot": "/Users/mengxuan/Scheduler/wwwroot/",
       "BasePath": "_content/Scheduler",
       "RelativePath": "rootscare/app#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -283,17 +346,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "1j0kv3sfsr",
-      "Integrity": "U9WT2960g2WTFI1HAJh1qz7QIDEr+W0wKPoeizRPbHM=",
+      "Fingerprint": "uh47ir1izr",
+      "Integrity": "gkBgIaOnP90LaAawSHgLU7LlW4hQPDt+oQ/Tn8p0WL4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/rootscare/app.js"
     },
     {
-      "Identity": "/Users/mengxuan/cms/Scheduler/wwwroot/rootscare/index.html",
+      "Identity": "/Users/mengxuan/Scheduler/wwwroot/rootscare/index.html",
       "SourceId": "Scheduler",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mengxuan/cms/Scheduler/wwwroot/",
+      "ContentRoot": "/Users/mengxuan/Scheduler/wwwroot/",
       "BasePath": "_content/Scheduler",
       "RelativePath": "rootscare/index#[.{fingerprint}]?.html",
       "AssetKind": "All",
@@ -304,17 +367,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "9c46dl1wts",
-      "Integrity": "h/N6YqS4VhPAKPPdxlHowdtniQWTRUSvprpJ6W/WurE=",
+      "Fingerprint": "gt1mvjkvz2",
+      "Integrity": "tF3GyhG+ialUtDME4EyjkHMoM+L2oBBSq3X5hf4i3uM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/rootscare/index.html"
     },
     {
-      "Identity": "/Users/mengxuan/cms/Scheduler/wwwroot/rootscare/styles.css",
+      "Identity": "/Users/mengxuan/Scheduler/wwwroot/rootscare/styles.css",
       "SourceId": "Scheduler",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mengxuan/cms/Scheduler/wwwroot/",
+      "ContentRoot": "/Users/mengxuan/Scheduler/wwwroot/",
       "BasePath": "_content/Scheduler",
       "RelativePath": "rootscare/styles#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -325,17 +388,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "7iuqcs7n2a",
-      "Integrity": "78j7KJhO314ykDzanV3dZiPUtzHlNrM4+zAIa3MAyfk=",
+      "Fingerprint": "66t4i5jjzn",
+      "Integrity": "ruLhlMWOngVpKZPNe+fKA1LiusiSqR8wHa1a5+wOM6c=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/rootscare/styles.css"
     },
     {
-      "Identity": "/Users/mengxuan/cms/Scheduler/wwwroot/rootspro/index.html",
+      "Identity": "/Users/mengxuan/Scheduler/wwwroot/rootspro/index.html",
       "SourceId": "Scheduler",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mengxuan/cms/Scheduler/wwwroot/",
+      "ContentRoot": "/Users/mengxuan/Scheduler/wwwroot/",
       "BasePath": "_content/Scheduler",
       "RelativePath": "rootspro/index#[.{fingerprint}]?.html",
       "AssetKind": "All",
@@ -353,10 +416,10 @@
       "OriginalItemSpec": "wwwroot/rootspro/index.html"
     },
     {
-      "Identity": "/Users/mengxuan/cms/Scheduler/wwwroot/rootspro/scripts.js",
+      "Identity": "/Users/mengxuan/Scheduler/wwwroot/rootspro/scripts.js",
       "SourceId": "Scheduler",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mengxuan/cms/Scheduler/wwwroot/",
+      "ContentRoot": "/Users/mengxuan/Scheduler/wwwroot/",
       "BasePath": "_content/Scheduler",
       "RelativePath": "rootspro/scripts#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -374,10 +437,10 @@
       "OriginalItemSpec": "wwwroot/rootspro/scripts.js"
     },
     {
-      "Identity": "/Users/mengxuan/cms/Scheduler/wwwroot/rootspro/styles.css",
+      "Identity": "/Users/mengxuan/Scheduler/wwwroot/rootspro/styles.css",
       "SourceId": "Scheduler",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/mengxuan/cms/Scheduler/wwwroot/",
+      "ContentRoot": "/Users/mengxuan/Scheduler/wwwroot/",
       "BasePath": "_content/Scheduler",
       "RelativePath": "rootspro/styles#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -397,8 +460,388 @@
   ],
   "Endpoints": [
     {
+      "Route": "index.html",
+      "AssetFile": "/Users/mengxuan/Scheduler/obj/Debug/net9.0/compressed/0pfwbdl54a-wc9qidxfm3.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000769230769"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1299"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"R3J/IvDDmgulDptbCQT4E9WC5Y9nyMfM2wg5CGq0icg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 Jan 2026 03:14:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"4CfzqkWC+zM6M3k1L3CLcrrR8OBLjYpvu/kp0u70ZF4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4CfzqkWC+zM6M3k1L3CLcrrR8OBLjYpvu/kp0u70ZF4="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "/Users/mengxuan/Scheduler/wwwroot/index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4170"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4CfzqkWC+zM6M3k1L3CLcrrR8OBLjYpvu/kp0u70ZF4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 Jan 2026 03:14:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4CfzqkWC+zM6M3k1L3CLcrrR8OBLjYpvu/kp0u70ZF4="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "/Users/mengxuan/Scheduler/obj/Debug/net9.0/compressed/0pfwbdl54a-wc9qidxfm3.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1299"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"R3J/IvDDmgulDptbCQT4E9WC5Y9nyMfM2wg5CGq0icg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 Jan 2026 03:14:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-R3J/IvDDmgulDptbCQT4E9WC5Y9nyMfM2wg5CGq0icg="
+        }
+      ]
+    },
+    {
+      "Route": "index.wc9qidxfm3.html",
+      "AssetFile": "/Users/mengxuan/Scheduler/obj/Debug/net9.0/compressed/0pfwbdl54a-wc9qidxfm3.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000769230769"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1299"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"R3J/IvDDmgulDptbCQT4E9WC5Y9nyMfM2wg5CGq0icg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 Jan 2026 03:14:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"4CfzqkWC+zM6M3k1L3CLcrrR8OBLjYpvu/kp0u70ZF4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wc9qidxfm3"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4CfzqkWC+zM6M3k1L3CLcrrR8OBLjYpvu/kp0u70ZF4="
+        }
+      ]
+    },
+    {
+      "Route": "index.wc9qidxfm3.html",
+      "AssetFile": "/Users/mengxuan/Scheduler/wwwroot/index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4170"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4CfzqkWC+zM6M3k1L3CLcrrR8OBLjYpvu/kp0u70ZF4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 Jan 2026 03:14:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wc9qidxfm3"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4CfzqkWC+zM6M3k1L3CLcrrR8OBLjYpvu/kp0u70ZF4="
+        }
+      ]
+    },
+    {
+      "Route": "index.wc9qidxfm3.html.gz",
+      "AssetFile": "/Users/mengxuan/Scheduler/obj/Debug/net9.0/compressed/0pfwbdl54a-wc9qidxfm3.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1299"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"R3J/IvDDmgulDptbCQT4E9WC5Y9nyMfM2wg5CGq0icg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 Jan 2026 03:14:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wc9qidxfm3"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-R3J/IvDDmgulDptbCQT4E9WC5Y9nyMfM2wg5CGq0icg="
+        }
+      ]
+    },
+    {
+      "Route": "logo.png",
+      "AssetFile": "/Users/mengxuan/Scheduler/wwwroot/logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1452001"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+QqI4lP+DM4Fk4G/w6R3GTZJnMJyNvk9pDtb5NvY2VY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Jun 2025 10:05:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+QqI4lP+DM4Fk4G/w6R3GTZJnMJyNvk9pDtb5NvY2VY="
+        }
+      ]
+    },
+    {
+      "Route": "logo.tbdyvdwbsw.png",
+      "AssetFile": "/Users/mengxuan/Scheduler/wwwroot/logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1452001"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+QqI4lP+DM4Fk4G/w6R3GTZJnMJyNvk9pDtb5NvY2VY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Jun 2025 10:05:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tbdyvdwbsw"
+        },
+        {
+          "Name": "label",
+          "Value": "logo.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+QqI4lP+DM4Fk4G/w6R3GTZJnMJyNvk9pDtb5NvY2VY="
+        }
+      ]
+    },
+    {
       "Route": "rootsadmin/index.e38mmb8eai.html",
-      "AssetFile": "/Users/mengxuan/cms/Scheduler/obj/Debug/net9.0/compressed/66au3pnb6j-e38mmb8eai.gz",
+      "AssetFile": "/Users/mengxuan/Scheduler/obj/Debug/net9.0/compressed/66au3pnb6j-e38mmb8eai.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -461,7 +904,7 @@
     },
     {
       "Route": "rootsadmin/index.e38mmb8eai.html",
-      "AssetFile": "/Users/mengxuan/cms/Scheduler/wwwroot/rootsadmin/index.html",
+      "AssetFile": "/Users/mengxuan/Scheduler/wwwroot/rootsadmin/index.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -506,7 +949,7 @@
     },
     {
       "Route": "rootsadmin/index.e38mmb8eai.html.gz",
-      "AssetFile": "/Users/mengxuan/cms/Scheduler/obj/Debug/net9.0/compressed/66au3pnb6j-e38mmb8eai.gz",
+      "AssetFile": "/Users/mengxuan/Scheduler/obj/Debug/net9.0/compressed/66au3pnb6j-e38mmb8eai.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -559,7 +1002,7 @@
     },
     {
       "Route": "rootsadmin/index.html",
-      "AssetFile": "/Users/mengxuan/cms/Scheduler/obj/Debug/net9.0/compressed/66au3pnb6j-e38mmb8eai.gz",
+      "AssetFile": "/Users/mengxuan/Scheduler/obj/Debug/net9.0/compressed/66au3pnb6j-e38mmb8eai.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -614,7 +1057,7 @@
     },
     {
       "Route": "rootsadmin/index.html",
-      "AssetFile": "/Users/mengxuan/cms/Scheduler/wwwroot/rootsadmin/index.html",
+      "AssetFile": "/Users/mengxuan/Scheduler/wwwroot/rootsadmin/index.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -651,7 +1094,7 @@
     },
     {
       "Route": "rootsadmin/index.html.gz",
-      "AssetFile": "/Users/mengxuan/cms/Scheduler/obj/Debug/net9.0/compressed/66au3pnb6j-e38mmb8eai.gz",
+      "AssetFile": "/Users/mengxuan/Scheduler/obj/Debug/net9.0/compressed/66au3pnb6j-e38mmb8eai.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -696,7 +1139,7 @@
     },
     {
       "Route": "rootsadmin/script.js",
-      "AssetFile": "/Users/mengxuan/cms/Scheduler/obj/Debug/net9.0/compressed/egn1on1iew-k4x8v7lrmn.gz",
+      "AssetFile": "/Users/mengxuan/Scheduler/obj/Debug/net9.0/compressed/egn1on1iew-k4x8v7lrmn.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -751,7 +1194,7 @@
     },
     {
       "Route": "rootsadmin/script.js",
-      "AssetFile": "/Users/mengxuan/cms/Scheduler/wwwroot/rootsadmin/script.js",
+      "AssetFile": "/Users/mengxuan/Scheduler/wwwroot/rootsadmin/script.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -788,7 +1231,7 @@
     },
     {
       "Route": "rootsadmin/script.js.gz",
-      "AssetFile": "/Users/mengxuan/cms/Scheduler/obj/Debug/net9.0/compressed/egn1on1iew-k4x8v7lrmn.gz",
+      "AssetFile": "/Users/mengxuan/Scheduler/obj/Debug/net9.0/compressed/egn1on1iew-k4x8v7lrmn.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -833,7 +1276,7 @@
     },
     {
       "Route": "rootsadmin/script.k4x8v7lrmn.js",
-      "AssetFile": "/Users/mengxuan/cms/Scheduler/obj/Debug/net9.0/compressed/egn1on1iew-k4x8v7lrmn.gz",
+      "AssetFile": "/Users/mengxuan/Scheduler/obj/Debug/net9.0/compressed/egn1on1iew-k4x8v7lrmn.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -896,7 +1339,7 @@
     },
     {
       "Route": "rootsadmin/script.k4x8v7lrmn.js",
-      "AssetFile": "/Users/mengxuan/cms/Scheduler/wwwroot/rootsadmin/script.js",
+      "AssetFile": "/Users/mengxuan/Scheduler/wwwroot/rootsadmin/script.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -941,7 +1384,7 @@
     },
     {
       "Route": "rootsadmin/script.k4x8v7lrmn.js.gz",
-      "AssetFile": "/Users/mengxuan/cms/Scheduler/obj/Debug/net9.0/compressed/egn1on1iew-k4x8v7lrmn.gz",
+      "AssetFile": "/Users/mengxuan/Scheduler/obj/Debug/net9.0/compressed/egn1on1iew-k4x8v7lrmn.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -994,7 +1437,7 @@
     },
     {
       "Route": "rootsadmin/styles.css",
-      "AssetFile": "/Users/mengxuan/cms/Scheduler/obj/Debug/net9.0/compressed/8hne2pe563-losvjo4kdx.gz",
+      "AssetFile": "/Users/mengxuan/Scheduler/obj/Debug/net9.0/compressed/8hne2pe563-losvjo4kdx.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1049,7 +1492,7 @@
     },
     {
       "Route": "rootsadmin/styles.css",
-      "AssetFile": "/Users/mengxuan/cms/Scheduler/wwwroot/rootsadmin/styles.css",
+      "AssetFile": "/Users/mengxuan/Scheduler/wwwroot/rootsadmin/styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1086,7 +1529,7 @@
     },
     {
       "Route": "rootsadmin/styles.css.gz",
-      "AssetFile": "/Users/mengxuan/cms/Scheduler/obj/Debug/net9.0/compressed/8hne2pe563-losvjo4kdx.gz",
+      "AssetFile": "/Users/mengxuan/Scheduler/obj/Debug/net9.0/compressed/8hne2pe563-losvjo4kdx.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1131,7 +1574,7 @@
     },
     {
       "Route": "rootsadmin/styles.losvjo4kdx.css",
-      "AssetFile": "/Users/mengxuan/cms/Scheduler/obj/Debug/net9.0/compressed/8hne2pe563-losvjo4kdx.gz",
+      "AssetFile": "/Users/mengxuan/Scheduler/obj/Debug/net9.0/compressed/8hne2pe563-losvjo4kdx.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1194,7 +1637,7 @@
     },
     {
       "Route": "rootsadmin/styles.losvjo4kdx.css",
-      "AssetFile": "/Users/mengxuan/cms/Scheduler/wwwroot/rootsadmin/styles.css",
+      "AssetFile": "/Users/mengxuan/Scheduler/wwwroot/rootsadmin/styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1239,7 +1682,7 @@
     },
     {
       "Route": "rootsadmin/styles.losvjo4kdx.css.gz",
-      "AssetFile": "/Users/mengxuan/cms/Scheduler/obj/Debug/net9.0/compressed/8hne2pe563-losvjo4kdx.gz",
+      "AssetFile": "/Users/mengxuan/Scheduler/obj/Debug/net9.0/compressed/8hne2pe563-losvjo4kdx.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1291,13 +1734,13 @@
       ]
     },
     {
-      "Route": "rootscare/app.1j0kv3sfsr.js",
-      "AssetFile": "/Users/mengxuan/cms/Scheduler/obj/Debug/net9.0/compressed/22mvqk53lq-1j0kv3sfsr.gz",
+      "Route": "rootscare/app.js",
+      "AssetFile": "/Users/mengxuan/Scheduler/obj/Debug/net9.0/compressed/22mvqk53lq-uh47ir1izr.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000189753321"
+          "Quality": "0.000185116623"
         }
       ],
       "ResponseHeaders": [
@@ -1307,15 +1750,152 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5269"
+          "Value": "5401"
         },
         {
           "Name": "ETag",
-          "Value": "\"DsS+21bj7H3nm92dFU5OGzOc5bplcYgz6q2U4Sn7Htw=\""
+          "Value": "\"W4dUpNKYahkmFW/pJZyla22TJjAciumsfZxLP7wmaUc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 13 Jan 2026 01:27:12 GMT"
+          "Value": "Tue, 13 Jan 2026 01:54:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"gkBgIaOnP90LaAawSHgLU7LlW4hQPDt+oQ/Tn8p0WL4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gkBgIaOnP90LaAawSHgLU7LlW4hQPDt+oQ/Tn8p0WL4="
+        }
+      ]
+    },
+    {
+      "Route": "rootscare/app.js",
+      "AssetFile": "/Users/mengxuan/Scheduler/wwwroot/rootscare/app.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21204"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gkBgIaOnP90LaAawSHgLU7LlW4hQPDt+oQ/Tn8p0WL4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 Jan 2026 01:54:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gkBgIaOnP90LaAawSHgLU7LlW4hQPDt+oQ/Tn8p0WL4="
+        }
+      ]
+    },
+    {
+      "Route": "rootscare/app.js.gz",
+      "AssetFile": "/Users/mengxuan/Scheduler/obj/Debug/net9.0/compressed/22mvqk53lq-uh47ir1izr.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5401"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W4dUpNKYahkmFW/pJZyla22TJjAciumsfZxLP7wmaUc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 Jan 2026 01:54:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-W4dUpNKYahkmFW/pJZyla22TJjAciumsfZxLP7wmaUc="
+        }
+      ]
+    },
+    {
+      "Route": "rootscare/app.uh47ir1izr.js",
+      "AssetFile": "/Users/mengxuan/Scheduler/obj/Debug/net9.0/compressed/22mvqk53lq-uh47ir1izr.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000185116623"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5401"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W4dUpNKYahkmFW/pJZyla22TJjAciumsfZxLP7wmaUc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 Jan 2026 01:54:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1335,13 +1915,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"U9WT2960g2WTFI1HAJh1qz7QIDEr+W0wKPoeizRPbHM=\""
+          "Value": "W/\"gkBgIaOnP90LaAawSHgLU7LlW4hQPDt+oQ/Tn8p0WL4=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "1j0kv3sfsr"
+          "Value": "uh47ir1izr"
         },
         {
           "Name": "label",
@@ -1349,13 +1929,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-U9WT2960g2WTFI1HAJh1qz7QIDEr+W0wKPoeizRPbHM="
+          "Value": "sha256-gkBgIaOnP90LaAawSHgLU7LlW4hQPDt+oQ/Tn8p0WL4="
         }
       ]
     },
     {
-      "Route": "rootscare/app.1j0kv3sfsr.js",
-      "AssetFile": "/Users/mengxuan/cms/Scheduler/wwwroot/rootscare/app.js",
+      "Route": "rootscare/app.uh47ir1izr.js",
+      "AssetFile": "/Users/mengxuan/Scheduler/wwwroot/rootscare/app.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1364,7 +1944,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "20906"
+          "Value": "21204"
         },
         {
           "Name": "Content-Type",
@@ -1372,11 +1952,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"U9WT2960g2WTFI1HAJh1qz7QIDEr+W0wKPoeizRPbHM=\""
+          "Value": "\"gkBgIaOnP90LaAawSHgLU7LlW4hQPDt+oQ/Tn8p0WL4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 13 Jan 2026 01:27:12 GMT"
+          "Value": "Tue, 13 Jan 2026 01:54:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1386,7 +1966,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "1j0kv3sfsr"
+          "Value": "uh47ir1izr"
         },
         {
           "Name": "label",
@@ -1394,13 +1974,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-U9WT2960g2WTFI1HAJh1qz7QIDEr+W0wKPoeizRPbHM="
+          "Value": "sha256-gkBgIaOnP90LaAawSHgLU7LlW4hQPDt+oQ/Tn8p0WL4="
         }
       ]
     },
     {
-      "Route": "rootscare/app.1j0kv3sfsr.js.gz",
-      "AssetFile": "/Users/mengxuan/cms/Scheduler/obj/Debug/net9.0/compressed/22mvqk53lq-1j0kv3sfsr.gz",
+      "Route": "rootscare/app.uh47ir1izr.js.gz",
+      "AssetFile": "/Users/mengxuan/Scheduler/obj/Debug/net9.0/compressed/22mvqk53lq-uh47ir1izr.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1409,7 +1989,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5269"
+          "Value": "5401"
         },
         {
           "Name": "Content-Type",
@@ -1417,11 +1997,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"DsS+21bj7H3nm92dFU5OGzOc5bplcYgz6q2U4Sn7Htw=\""
+          "Value": "\"W4dUpNKYahkmFW/pJZyla22TJjAciumsfZxLP7wmaUc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 13 Jan 2026 01:27:12 GMT"
+          "Value": "Tue, 13 Jan 2026 01:54:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1439,7 +2019,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "1j0kv3sfsr"
+          "Value": "uh47ir1izr"
         },
         {
           "Name": "label",
@@ -1447,18 +2027,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-DsS+21bj7H3nm92dFU5OGzOc5bplcYgz6q2U4Sn7Htw="
+          "Value": "sha256-W4dUpNKYahkmFW/pJZyla22TJjAciumsfZxLP7wmaUc="
         }
       ]
     },
     {
-      "Route": "rootscare/app.js",
-      "AssetFile": "/Users/mengxuan/cms/Scheduler/obj/Debug/net9.0/compressed/22mvqk53lq-1j0kv3sfsr.gz",
+      "Route": "rootscare/index.gt1mvjkvz2.html",
+      "AssetFile": "/Users/mengxuan/Scheduler/obj/Debug/net9.0/compressed/jrhen56aza-gt1mvjkvz2.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000189753321"
+          "Quality": "0.000702740689"
         }
       ],
       "ResponseHeaders": [
@@ -1468,152 +2048,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5269"
+          "Value": "1422"
         },
         {
           "Name": "ETag",
-          "Value": "\"DsS+21bj7H3nm92dFU5OGzOc5bplcYgz6q2U4Sn7Htw=\""
+          "Value": "\"lfkJ6xwxpjW3sdml5KcWAvGgllJAMxu00jJ74No0jQk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 13 Jan 2026 01:27:12 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"U9WT2960g2WTFI1HAJh1qz7QIDEr+W0wKPoeizRPbHM=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-U9WT2960g2WTFI1HAJh1qz7QIDEr+W0wKPoeizRPbHM="
-        }
-      ]
-    },
-    {
-      "Route": "rootscare/app.js",
-      "AssetFile": "/Users/mengxuan/cms/Scheduler/wwwroot/rootscare/app.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "20906"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"U9WT2960g2WTFI1HAJh1qz7QIDEr+W0wKPoeizRPbHM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 13 Jan 2026 01:27:12 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-U9WT2960g2WTFI1HAJh1qz7QIDEr+W0wKPoeizRPbHM="
-        }
-      ]
-    },
-    {
-      "Route": "rootscare/app.js.gz",
-      "AssetFile": "/Users/mengxuan/cms/Scheduler/obj/Debug/net9.0/compressed/22mvqk53lq-1j0kv3sfsr.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5269"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"DsS+21bj7H3nm92dFU5OGzOc5bplcYgz6q2U4Sn7Htw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 13 Jan 2026 01:27:12 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-DsS+21bj7H3nm92dFU5OGzOc5bplcYgz6q2U4Sn7Htw="
-        }
-      ]
-    },
-    {
-      "Route": "rootscare/index.9c46dl1wts.html",
-      "AssetFile": "/Users/mengxuan/cms/Scheduler/obj/Debug/net9.0/compressed/jrhen56aza-9c46dl1wts.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000741289844"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1348"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"TcXn15xDo+CwHhYRZP2SRe/wzTLWfKRbN0yKNnDX9J0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 22 Jul 2025 10:43:39 GMT"
+          "Value": "Tue, 13 Jan 2026 01:46:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1633,13 +2076,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"h/N6YqS4VhPAKPPdxlHowdtniQWTRUSvprpJ6W/WurE=\""
+          "Value": "W/\"tF3GyhG+ialUtDME4EyjkHMoM+L2oBBSq3X5hf4i3uM=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "9c46dl1wts"
+          "Value": "gt1mvjkvz2"
         },
         {
           "Name": "label",
@@ -1647,13 +2090,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-h/N6YqS4VhPAKPPdxlHowdtniQWTRUSvprpJ6W/WurE="
+          "Value": "sha256-tF3GyhG+ialUtDME4EyjkHMoM+L2oBBSq3X5hf4i3uM="
         }
       ]
     },
     {
-      "Route": "rootscare/index.9c46dl1wts.html",
-      "AssetFile": "/Users/mengxuan/cms/Scheduler/wwwroot/rootscare/index.html",
+      "Route": "rootscare/index.gt1mvjkvz2.html",
+      "AssetFile": "/Users/mengxuan/Scheduler/wwwroot/rootscare/index.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1662,7 +2105,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5556"
+          "Value": "6657"
         },
         {
           "Name": "Content-Type",
@@ -1670,11 +2113,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"h/N6YqS4VhPAKPPdxlHowdtniQWTRUSvprpJ6W/WurE=\""
+          "Value": "\"tF3GyhG+ialUtDME4EyjkHMoM+L2oBBSq3X5hf4i3uM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 22 Jul 2025 10:43:39 GMT"
+          "Value": "Tue, 13 Jan 2026 01:46:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1684,7 +2127,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "9c46dl1wts"
+          "Value": "gt1mvjkvz2"
         },
         {
           "Name": "label",
@@ -1692,13 +2135,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-h/N6YqS4VhPAKPPdxlHowdtniQWTRUSvprpJ6W/WurE="
+          "Value": "sha256-tF3GyhG+ialUtDME4EyjkHMoM+L2oBBSq3X5hf4i3uM="
         }
       ]
     },
     {
-      "Route": "rootscare/index.9c46dl1wts.html.gz",
-      "AssetFile": "/Users/mengxuan/cms/Scheduler/obj/Debug/net9.0/compressed/jrhen56aza-9c46dl1wts.gz",
+      "Route": "rootscare/index.gt1mvjkvz2.html.gz",
+      "AssetFile": "/Users/mengxuan/Scheduler/obj/Debug/net9.0/compressed/jrhen56aza-gt1mvjkvz2.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1707,7 +2150,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1348"
+          "Value": "1422"
         },
         {
           "Name": "Content-Type",
@@ -1715,11 +2158,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"TcXn15xDo+CwHhYRZP2SRe/wzTLWfKRbN0yKNnDX9J0=\""
+          "Value": "\"lfkJ6xwxpjW3sdml5KcWAvGgllJAMxu00jJ74No0jQk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 22 Jul 2025 10:43:39 GMT"
+          "Value": "Tue, 13 Jan 2026 01:46:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1737,7 +2180,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "9c46dl1wts"
+          "Value": "gt1mvjkvz2"
         },
         {
           "Name": "label",
@@ -1745,18 +2188,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-TcXn15xDo+CwHhYRZP2SRe/wzTLWfKRbN0yKNnDX9J0="
+          "Value": "sha256-lfkJ6xwxpjW3sdml5KcWAvGgllJAMxu00jJ74No0jQk="
         }
       ]
     },
     {
       "Route": "rootscare/index.html",
-      "AssetFile": "/Users/mengxuan/cms/Scheduler/obj/Debug/net9.0/compressed/jrhen56aza-9c46dl1wts.gz",
+      "AssetFile": "/Users/mengxuan/Scheduler/obj/Debug/net9.0/compressed/jrhen56aza-gt1mvjkvz2.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000741289844"
+          "Quality": "0.000702740689"
         }
       ],
       "ResponseHeaders": [
@@ -1766,15 +2209,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1348"
+          "Value": "1422"
         },
         {
           "Name": "ETag",
-          "Value": "\"TcXn15xDo+CwHhYRZP2SRe/wzTLWfKRbN0yKNnDX9J0=\""
+          "Value": "\"lfkJ6xwxpjW3sdml5KcWAvGgllJAMxu00jJ74No0jQk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 22 Jul 2025 10:43:39 GMT"
+          "Value": "Tue, 13 Jan 2026 01:46:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1794,19 +2237,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"h/N6YqS4VhPAKPPdxlHowdtniQWTRUSvprpJ6W/WurE=\""
+          "Value": "W/\"tF3GyhG+ialUtDME4EyjkHMoM+L2oBBSq3X5hf4i3uM=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-h/N6YqS4VhPAKPPdxlHowdtniQWTRUSvprpJ6W/WurE="
+          "Value": "sha256-tF3GyhG+ialUtDME4EyjkHMoM+L2oBBSq3X5hf4i3uM="
         }
       ]
     },
     {
       "Route": "rootscare/index.html",
-      "AssetFile": "/Users/mengxuan/cms/Scheduler/wwwroot/rootscare/index.html",
+      "AssetFile": "/Users/mengxuan/Scheduler/wwwroot/rootscare/index.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1815,7 +2258,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5556"
+          "Value": "6657"
         },
         {
           "Name": "Content-Type",
@@ -1823,11 +2266,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"h/N6YqS4VhPAKPPdxlHowdtniQWTRUSvprpJ6W/WurE=\""
+          "Value": "\"tF3GyhG+ialUtDME4EyjkHMoM+L2oBBSq3X5hf4i3uM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 22 Jul 2025 10:43:39 GMT"
+          "Value": "Tue, 13 Jan 2026 01:46:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1837,13 +2280,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-h/N6YqS4VhPAKPPdxlHowdtniQWTRUSvprpJ6W/WurE="
+          "Value": "sha256-tF3GyhG+ialUtDME4EyjkHMoM+L2oBBSq3X5hf4i3uM="
         }
       ]
     },
     {
       "Route": "rootscare/index.html.gz",
-      "AssetFile": "/Users/mengxuan/cms/Scheduler/obj/Debug/net9.0/compressed/jrhen56aza-9c46dl1wts.gz",
+      "AssetFile": "/Users/mengxuan/Scheduler/obj/Debug/net9.0/compressed/jrhen56aza-gt1mvjkvz2.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1852,7 +2295,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1348"
+          "Value": "1422"
         },
         {
           "Name": "Content-Type",
@@ -1860,11 +2303,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"TcXn15xDo+CwHhYRZP2SRe/wzTLWfKRbN0yKNnDX9J0=\""
+          "Value": "\"lfkJ6xwxpjW3sdml5KcWAvGgllJAMxu00jJ74No0jQk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 22 Jul 2025 10:43:39 GMT"
+          "Value": "Tue, 13 Jan 2026 01:46:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1882,18 +2325,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-TcXn15xDo+CwHhYRZP2SRe/wzTLWfKRbN0yKNnDX9J0="
+          "Value": "sha256-lfkJ6xwxpjW3sdml5KcWAvGgllJAMxu00jJ74No0jQk="
         }
       ]
     },
     {
-      "Route": "rootscare/styles.7iuqcs7n2a.css",
-      "AssetFile": "/Users/mengxuan/cms/Scheduler/obj/Debug/net9.0/compressed/0beioue5pv-7iuqcs7n2a.gz",
+      "Route": "rootscare/styles.66t4i5jjzn.css",
+      "AssetFile": "/Users/mengxuan/Scheduler/obj/Debug/net9.0/compressed/0beioue5pv-66t4i5jjzn.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001547987616"
+          "Quality": "0.001315789474"
         }
       ],
       "ResponseHeaders": [
@@ -1903,15 +2346,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "645"
+          "Value": "759"
         },
         {
           "Name": "ETag",
-          "Value": "\"7cGGj5jyHGkVVSGzZWwxC3KtAXfWsrl0l1Al6vLBHF8=\""
+          "Value": "\"isvVTwU5BZBdzyGOOmQkfFfmZCwps4dqHUH4uufViK0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 22 Jul 2025 10:47:20 GMT"
+          "Value": "Tue, 13 Jan 2026 01:58:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1931,13 +2374,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"78j7KJhO314ykDzanV3dZiPUtzHlNrM4+zAIa3MAyfk=\""
+          "Value": "W/\"ruLhlMWOngVpKZPNe+fKA1LiusiSqR8wHa1a5+wOM6c=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "7iuqcs7n2a"
+          "Value": "66t4i5jjzn"
         },
         {
           "Name": "label",
@@ -1945,13 +2388,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-78j7KJhO314ykDzanV3dZiPUtzHlNrM4+zAIa3MAyfk="
+          "Value": "sha256-ruLhlMWOngVpKZPNe+fKA1LiusiSqR8wHa1a5+wOM6c="
         }
       ]
     },
     {
-      "Route": "rootscare/styles.7iuqcs7n2a.css",
-      "AssetFile": "/Users/mengxuan/cms/Scheduler/wwwroot/rootscare/styles.css",
+      "Route": "rootscare/styles.66t4i5jjzn.css",
+      "AssetFile": "/Users/mengxuan/Scheduler/wwwroot/rootscare/styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1960,7 +2403,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1712"
+          "Value": "2002"
         },
         {
           "Name": "Content-Type",
@@ -1968,11 +2411,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"78j7KJhO314ykDzanV3dZiPUtzHlNrM4+zAIa3MAyfk=\""
+          "Value": "\"ruLhlMWOngVpKZPNe+fKA1LiusiSqR8wHa1a5+wOM6c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 22 Jul 2025 10:47:20 GMT"
+          "Value": "Tue, 13 Jan 2026 01:58:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1982,7 +2425,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "7iuqcs7n2a"
+          "Value": "66t4i5jjzn"
         },
         {
           "Name": "label",
@@ -1990,13 +2433,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-78j7KJhO314ykDzanV3dZiPUtzHlNrM4+zAIa3MAyfk="
+          "Value": "sha256-ruLhlMWOngVpKZPNe+fKA1LiusiSqR8wHa1a5+wOM6c="
         }
       ]
     },
     {
-      "Route": "rootscare/styles.7iuqcs7n2a.css.gz",
-      "AssetFile": "/Users/mengxuan/cms/Scheduler/obj/Debug/net9.0/compressed/0beioue5pv-7iuqcs7n2a.gz",
+      "Route": "rootscare/styles.66t4i5jjzn.css.gz",
+      "AssetFile": "/Users/mengxuan/Scheduler/obj/Debug/net9.0/compressed/0beioue5pv-66t4i5jjzn.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2005,7 +2448,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "645"
+          "Value": "759"
         },
         {
           "Name": "Content-Type",
@@ -2013,11 +2456,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"7cGGj5jyHGkVVSGzZWwxC3KtAXfWsrl0l1Al6vLBHF8=\""
+          "Value": "\"isvVTwU5BZBdzyGOOmQkfFfmZCwps4dqHUH4uufViK0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 22 Jul 2025 10:47:20 GMT"
+          "Value": "Tue, 13 Jan 2026 01:58:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2035,7 +2478,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "7iuqcs7n2a"
+          "Value": "66t4i5jjzn"
         },
         {
           "Name": "label",
@@ -2043,18 +2486,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-7cGGj5jyHGkVVSGzZWwxC3KtAXfWsrl0l1Al6vLBHF8="
+          "Value": "sha256-isvVTwU5BZBdzyGOOmQkfFfmZCwps4dqHUH4uufViK0="
         }
       ]
     },
     {
       "Route": "rootscare/styles.css",
-      "AssetFile": "/Users/mengxuan/cms/Scheduler/obj/Debug/net9.0/compressed/0beioue5pv-7iuqcs7n2a.gz",
+      "AssetFile": "/Users/mengxuan/Scheduler/obj/Debug/net9.0/compressed/0beioue5pv-66t4i5jjzn.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001547987616"
+          "Quality": "0.001315789474"
         }
       ],
       "ResponseHeaders": [
@@ -2064,15 +2507,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "645"
+          "Value": "759"
         },
         {
           "Name": "ETag",
-          "Value": "\"7cGGj5jyHGkVVSGzZWwxC3KtAXfWsrl0l1Al6vLBHF8=\""
+          "Value": "\"isvVTwU5BZBdzyGOOmQkfFfmZCwps4dqHUH4uufViK0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 22 Jul 2025 10:47:20 GMT"
+          "Value": "Tue, 13 Jan 2026 01:58:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2092,19 +2535,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"78j7KJhO314ykDzanV3dZiPUtzHlNrM4+zAIa3MAyfk=\""
+          "Value": "W/\"ruLhlMWOngVpKZPNe+fKA1LiusiSqR8wHa1a5+wOM6c=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-78j7KJhO314ykDzanV3dZiPUtzHlNrM4+zAIa3MAyfk="
+          "Value": "sha256-ruLhlMWOngVpKZPNe+fKA1LiusiSqR8wHa1a5+wOM6c="
         }
       ]
     },
     {
       "Route": "rootscare/styles.css",
-      "AssetFile": "/Users/mengxuan/cms/Scheduler/wwwroot/rootscare/styles.css",
+      "AssetFile": "/Users/mengxuan/Scheduler/wwwroot/rootscare/styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2113,7 +2556,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1712"
+          "Value": "2002"
         },
         {
           "Name": "Content-Type",
@@ -2121,11 +2564,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"78j7KJhO314ykDzanV3dZiPUtzHlNrM4+zAIa3MAyfk=\""
+          "Value": "\"ruLhlMWOngVpKZPNe+fKA1LiusiSqR8wHa1a5+wOM6c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 22 Jul 2025 10:47:20 GMT"
+          "Value": "Tue, 13 Jan 2026 01:58:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2135,13 +2578,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-78j7KJhO314ykDzanV3dZiPUtzHlNrM4+zAIa3MAyfk="
+          "Value": "sha256-ruLhlMWOngVpKZPNe+fKA1LiusiSqR8wHa1a5+wOM6c="
         }
       ]
     },
     {
       "Route": "rootscare/styles.css.gz",
-      "AssetFile": "/Users/mengxuan/cms/Scheduler/obj/Debug/net9.0/compressed/0beioue5pv-7iuqcs7n2a.gz",
+      "AssetFile": "/Users/mengxuan/Scheduler/obj/Debug/net9.0/compressed/0beioue5pv-66t4i5jjzn.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2150,7 +2593,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "645"
+          "Value": "759"
         },
         {
           "Name": "Content-Type",
@@ -2158,11 +2601,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"7cGGj5jyHGkVVSGzZWwxC3KtAXfWsrl0l1Al6vLBHF8=\""
+          "Value": "\"isvVTwU5BZBdzyGOOmQkfFfmZCwps4dqHUH4uufViK0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 22 Jul 2025 10:47:20 GMT"
+          "Value": "Tue, 13 Jan 2026 01:58:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2180,13 +2623,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-7cGGj5jyHGkVVSGzZWwxC3KtAXfWsrl0l1Al6vLBHF8="
+          "Value": "sha256-isvVTwU5BZBdzyGOOmQkfFfmZCwps4dqHUH4uufViK0="
         }
       ]
     },
     {
       "Route": "rootspro/index.7sbv07rws3.html",
-      "AssetFile": "/Users/mengxuan/cms/Scheduler/obj/Debug/net9.0/compressed/31x7dcw2tt-7sbv07rws3.gz",
+      "AssetFile": "/Users/mengxuan/Scheduler/obj/Debug/net9.0/compressed/31x7dcw2tt-7sbv07rws3.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2249,7 +2692,7 @@
     },
     {
       "Route": "rootspro/index.7sbv07rws3.html",
-      "AssetFile": "/Users/mengxuan/cms/Scheduler/wwwroot/rootspro/index.html",
+      "AssetFile": "/Users/mengxuan/Scheduler/wwwroot/rootspro/index.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2294,7 +2737,7 @@
     },
     {
       "Route": "rootspro/index.7sbv07rws3.html.gz",
-      "AssetFile": "/Users/mengxuan/cms/Scheduler/obj/Debug/net9.0/compressed/31x7dcw2tt-7sbv07rws3.gz",
+      "AssetFile": "/Users/mengxuan/Scheduler/obj/Debug/net9.0/compressed/31x7dcw2tt-7sbv07rws3.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2347,7 +2790,7 @@
     },
     {
       "Route": "rootspro/index.html",
-      "AssetFile": "/Users/mengxuan/cms/Scheduler/obj/Debug/net9.0/compressed/31x7dcw2tt-7sbv07rws3.gz",
+      "AssetFile": "/Users/mengxuan/Scheduler/obj/Debug/net9.0/compressed/31x7dcw2tt-7sbv07rws3.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2402,7 +2845,7 @@
     },
     {
       "Route": "rootspro/index.html",
-      "AssetFile": "/Users/mengxuan/cms/Scheduler/wwwroot/rootspro/index.html",
+      "AssetFile": "/Users/mengxuan/Scheduler/wwwroot/rootspro/index.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2439,7 +2882,7 @@
     },
     {
       "Route": "rootspro/index.html.gz",
-      "AssetFile": "/Users/mengxuan/cms/Scheduler/obj/Debug/net9.0/compressed/31x7dcw2tt-7sbv07rws3.gz",
+      "AssetFile": "/Users/mengxuan/Scheduler/obj/Debug/net9.0/compressed/31x7dcw2tt-7sbv07rws3.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2484,7 +2927,7 @@
     },
     {
       "Route": "rootspro/scripts.hd7mwvqxnz.js",
-      "AssetFile": "/Users/mengxuan/cms/Scheduler/obj/Debug/net9.0/compressed/o1we54r10v-hd7mwvqxnz.gz",
+      "AssetFile": "/Users/mengxuan/Scheduler/obj/Debug/net9.0/compressed/o1we54r10v-hd7mwvqxnz.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2547,7 +2990,7 @@
     },
     {
       "Route": "rootspro/scripts.hd7mwvqxnz.js",
-      "AssetFile": "/Users/mengxuan/cms/Scheduler/wwwroot/rootspro/scripts.js",
+      "AssetFile": "/Users/mengxuan/Scheduler/wwwroot/rootspro/scripts.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2592,7 +3035,7 @@
     },
     {
       "Route": "rootspro/scripts.hd7mwvqxnz.js.gz",
-      "AssetFile": "/Users/mengxuan/cms/Scheduler/obj/Debug/net9.0/compressed/o1we54r10v-hd7mwvqxnz.gz",
+      "AssetFile": "/Users/mengxuan/Scheduler/obj/Debug/net9.0/compressed/o1we54r10v-hd7mwvqxnz.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2645,7 +3088,7 @@
     },
     {
       "Route": "rootspro/scripts.js",
-      "AssetFile": "/Users/mengxuan/cms/Scheduler/obj/Debug/net9.0/compressed/o1we54r10v-hd7mwvqxnz.gz",
+      "AssetFile": "/Users/mengxuan/Scheduler/obj/Debug/net9.0/compressed/o1we54r10v-hd7mwvqxnz.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2700,7 +3143,7 @@
     },
     {
       "Route": "rootspro/scripts.js",
-      "AssetFile": "/Users/mengxuan/cms/Scheduler/wwwroot/rootspro/scripts.js",
+      "AssetFile": "/Users/mengxuan/Scheduler/wwwroot/rootspro/scripts.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2737,7 +3180,7 @@
     },
     {
       "Route": "rootspro/scripts.js.gz",
-      "AssetFile": "/Users/mengxuan/cms/Scheduler/obj/Debug/net9.0/compressed/o1we54r10v-hd7mwvqxnz.gz",
+      "AssetFile": "/Users/mengxuan/Scheduler/obj/Debug/net9.0/compressed/o1we54r10v-hd7mwvqxnz.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2782,7 +3225,7 @@
     },
     {
       "Route": "rootspro/styles.css",
-      "AssetFile": "/Users/mengxuan/cms/Scheduler/obj/Debug/net9.0/compressed/o0xagf40b3-fctzwcj0ef.gz",
+      "AssetFile": "/Users/mengxuan/Scheduler/obj/Debug/net9.0/compressed/o0xagf40b3-fctzwcj0ef.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2837,7 +3280,7 @@
     },
     {
       "Route": "rootspro/styles.css",
-      "AssetFile": "/Users/mengxuan/cms/Scheduler/wwwroot/rootspro/styles.css",
+      "AssetFile": "/Users/mengxuan/Scheduler/wwwroot/rootspro/styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2874,7 +3317,7 @@
     },
     {
       "Route": "rootspro/styles.css.gz",
-      "AssetFile": "/Users/mengxuan/cms/Scheduler/obj/Debug/net9.0/compressed/o0xagf40b3-fctzwcj0ef.gz",
+      "AssetFile": "/Users/mengxuan/Scheduler/obj/Debug/net9.0/compressed/o0xagf40b3-fctzwcj0ef.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2919,7 +3362,7 @@
     },
     {
       "Route": "rootspro/styles.fctzwcj0ef.css",
-      "AssetFile": "/Users/mengxuan/cms/Scheduler/obj/Debug/net9.0/compressed/o0xagf40b3-fctzwcj0ef.gz",
+      "AssetFile": "/Users/mengxuan/Scheduler/obj/Debug/net9.0/compressed/o0xagf40b3-fctzwcj0ef.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2982,7 +3425,7 @@
     },
     {
       "Route": "rootspro/styles.fctzwcj0ef.css",
-      "AssetFile": "/Users/mengxuan/cms/Scheduler/wwwroot/rootspro/styles.css",
+      "AssetFile": "/Users/mengxuan/Scheduler/wwwroot/rootspro/styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3027,7 +3470,7 @@
     },
     {
       "Route": "rootspro/styles.fctzwcj0ef.css.gz",
-      "AssetFile": "/Users/mengxuan/cms/Scheduler/obj/Debug/net9.0/compressed/o0xagf40b3-fctzwcj0ef.gz",
+      "AssetFile": "/Users/mengxuan/Scheduler/obj/Debug/net9.0/compressed/o0xagf40b3-fctzwcj0ef.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {

@@ -1,39 +1,47 @@
 {
   "Files": [
     {
-      "Id": "/Users/mengxuan/cms/Scheduler/wwwroot/rootsadmin/index.html",
+      "Id": "/Users/mengxuan/Scheduler/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/Users/mengxuan/Scheduler/wwwroot/logo.png",
+      "PackagePath": "staticwebassets/logo.png"
+    },
+    {
+      "Id": "/Users/mengxuan/Scheduler/wwwroot/rootsadmin/index.html",
       "PackagePath": "staticwebassets/rootsadmin/index.html"
     },
     {
-      "Id": "/Users/mengxuan/cms/Scheduler/wwwroot/rootsadmin/script.js",
+      "Id": "/Users/mengxuan/Scheduler/wwwroot/rootsadmin/script.js",
       "PackagePath": "staticwebassets/rootsadmin/script.js"
     },
     {
-      "Id": "/Users/mengxuan/cms/Scheduler/wwwroot/rootsadmin/styles.css",
+      "Id": "/Users/mengxuan/Scheduler/wwwroot/rootsadmin/styles.css",
       "PackagePath": "staticwebassets/rootsadmin/styles.css"
     },
     {
-      "Id": "/Users/mengxuan/cms/Scheduler/wwwroot/rootscare/app.js",
+      "Id": "/Users/mengxuan/Scheduler/wwwroot/rootscare/app.js",
       "PackagePath": "staticwebassets/rootscare/app.js"
     },
     {
-      "Id": "/Users/mengxuan/cms/Scheduler/wwwroot/rootscare/index.html",
+      "Id": "/Users/mengxuan/Scheduler/wwwroot/rootscare/index.html",
       "PackagePath": "staticwebassets/rootscare/index.html"
     },
     {
-      "Id": "/Users/mengxuan/cms/Scheduler/wwwroot/rootscare/styles.css",
+      "Id": "/Users/mengxuan/Scheduler/wwwroot/rootscare/styles.css",
       "PackagePath": "staticwebassets/rootscare/styles.css"
     },
     {
-      "Id": "/Users/mengxuan/cms/Scheduler/wwwroot/rootspro/index.html",
+      "Id": "/Users/mengxuan/Scheduler/wwwroot/rootspro/index.html",
       "PackagePath": "staticwebassets/rootspro/index.html"
     },
     {
-      "Id": "/Users/mengxuan/cms/Scheduler/wwwroot/rootspro/scripts.js",
+      "Id": "/Users/mengxuan/Scheduler/wwwroot/rootspro/scripts.js",
       "PackagePath": "staticwebassets/rootspro/scripts.js"
     },
     {
-      "Id": "/Users/mengxuan/cms/Scheduler/wwwroot/rootspro/styles.css",
+      "Id": "/Users/mengxuan/Scheduler/wwwroot/rootspro/styles.css",
       "PackagePath": "staticwebassets/rootspro/styles.css"
     },
     {

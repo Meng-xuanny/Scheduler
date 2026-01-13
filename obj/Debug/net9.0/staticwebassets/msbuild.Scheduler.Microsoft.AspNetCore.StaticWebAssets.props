@@ -1,5 +1,41 @@
 ﻿<Project>
   <ItemGroup>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Scheduler</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Scheduler</BasePath>
+      <RelativePath>index.html</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>wc9qidxfm3</Fingerprint>
+      <Integrity>4CfzqkWC+zM6M3k1L3CLcrrR8OBLjYpvu/kp0u70ZF4=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\logo.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Scheduler</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Scheduler</BasePath>
+      <RelativePath>logo.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>tbdyvdwbsw</Fingerprint>
+      <Integrity>+QqI4lP+DM4Fk4G/w6R3GTZJnMJyNvk9pDtb5NvY2VY=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\logo.png'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\rootsadmin\index.html'))">
       <SourceType>Package</SourceType>
       <SourceId>Scheduler</SourceId>
@@ -66,8 +102,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>1j0kv3sfsr</Fingerprint>
-      <Integrity>U9WT2960g2WTFI1HAJh1qz7QIDEr+W0wKPoeizRPbHM=</Integrity>
+      <Fingerprint>uh47ir1izr</Fingerprint>
+      <Integrity>gkBgIaOnP90LaAawSHgLU7LlW4hQPDt+oQ/Tn8p0WL4=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\rootscare\app.js'))</OriginalItemSpec>
@@ -84,8 +120,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>9c46dl1wts</Fingerprint>
-      <Integrity>h/N6YqS4VhPAKPPdxlHowdtniQWTRUSvprpJ6W/WurE=</Integrity>
+      <Fingerprint>gt1mvjkvz2</Fingerprint>
+      <Integrity>tF3GyhG+ialUtDME4EyjkHMoM+L2oBBSq3X5hf4i3uM=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\rootscare\index.html'))</OriginalItemSpec>
@@ -102,8 +138,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>7iuqcs7n2a</Fingerprint>
-      <Integrity>78j7KJhO314ykDzanV3dZiPUtzHlNrM4+zAIa3MAyfk=</Integrity>
+      <Fingerprint>66t4i5jjzn</Fingerprint>
+      <Integrity>ruLhlMWOngVpKZPNe+fKA1LiusiSqR8wHa1a5+wOM6c=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\rootscare\styles.css'))</OriginalItemSpec>
