@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/mengxuan/cms/Scheduler/wwwroot/rootsadmin/index.html",
+      "PackagePath": "staticwebassets/rootsadmin/index.html"
+    },
+    {
+      "Id": "/Users/mengxuan/cms/Scheduler/wwwroot/rootsadmin/script.js",
+      "PackagePath": "staticwebassets/rootsadmin/script.js"
+    },
+    {
+      "Id": "/Users/mengxuan/cms/Scheduler/wwwroot/rootsadmin/styles.css",
+      "PackagePath": "staticwebassets/rootsadmin/styles.css"
+    },
+    {
+      "Id": "/Users/mengxuan/cms/Scheduler/wwwroot/rootscare/app.js",
+      "PackagePath": "staticwebassets/rootscare/app.js"
+    },
+    {
+      "Id": "/Users/mengxuan/cms/Scheduler/wwwroot/rootscare/index.html",
+      "PackagePath": "staticwebassets/rootscare/index.html"
+    },
+    {
+      "Id": "/Users/mengxuan/cms/Scheduler/wwwroot/rootscare/styles.css",
+      "PackagePath": "staticwebassets/rootscare/styles.css"
+    },
+    {
+      "Id": "/Users/mengxuan/cms/Scheduler/wwwroot/rootspro/index.html",
+      "PackagePath": "staticwebassets/rootspro/index.html"
+    },
+    {
+      "Id": "/Users/mengxuan/cms/Scheduler/wwwroot/rootspro/scripts.js",
+      "PackagePath": "staticwebassets/rootspro/scripts.js"
+    },
+    {
+      "Id": "/Users/mengxuan/cms/Scheduler/wwwroot/rootspro/styles.css",
+      "PackagePath": "staticwebassets/rootspro/styles.css"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.Scheduler.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.Scheduler.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.build.Scheduler.props",
+      "PackagePath": "build\\Scheduler.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.Scheduler.props",
+      "PackagePath": "buildMultiTargeting\\Scheduler.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.Scheduler.props",
+      "PackagePath": "buildTransitive\\Scheduler.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

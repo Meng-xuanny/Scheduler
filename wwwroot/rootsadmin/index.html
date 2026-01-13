@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>RootsAdmin Dashboard</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header>
+      <h1>RootsAdmin Dashboard</h1>
+      <nav>
+        <button onclick="switchSection('clientsSection')">Clients</button>
+        <button onclick="switchSection('providersSection')">Providers</button>
+        <button onclick="switchSection('requestsSection')">
+          Service Requests
+        </button>
+        <button onclick="switchSection('notificationsSection')">
+          Notifications
+        </button>
+        <button onclick="switchSection('jobsSection')">Jobs</button>
+      </nav>
+    </header>
+
+    <main>
+      <section id="clientsSection" class="dashboard-section">
+        <h2>Clients</h2>
+        <label
+          >Filter by Name: <input type="text" id="filterByClientName"
+        /></label>
+        <label
+          >Filter by Service Preference:
+          <input type="text" id="filterByPreference"
+        /></label>
+        <table id="clientsTable"></table>
+      </section>
+
+      <section id="providersSection" class="dashboard-section hidden">
+        <h2>Providers</h2>
+        <label
+          >Filter by Name: <input type="text" id="filterByProviderName"
+        /></label>
+        <label
+          >Filter by Skills: <input type="text" id="filterBySkills"
+        /></label>
+        <label>
+          Available Only:
+          <input type="checkbox" id="filterByAvailability" />
+        </label>
+        <table id="providersTable"></table>
+      </section>
+
+      <section id="requestsSection" class="dashboard-section hidden">
+        <h2>Service Requests</h2>
+        <label
+          >Client:
+          <input
+            type="text"
+            id="filterClientInput"
+            placeholder="Search client by name..."
+          />
+        </label>
+
+        <label
+          >Provider:
+          <input
+            type="text"
+            id="filterProviderInput"
+            placeholder="Search provider by name..."
+          />
+        </label>
+
+        <label
+          >Filter by Preferred Date:
+          <input type="date" id="filterDateInput" />
+        </label>
+        <table id="requestsTable"></table>
+      </section>
+
+      <section id="notificationsSection" class="dashboard-section hidden">
+        <h2>Provider Notifications</h2>
+        <label
+          >Search By Service Request ID:
+          <input type="text" id="filterByRequest" placeholder="Enter ID..." />
+        </label>
+        <label>
+          Filter by Status:
+          <select id="filterByNotificationStatus">
+            <option value="">-- All --</option>
+            <option value="Unread">Unread</option>
+            <option value="Handled">Handled</option>
+          </select>
+        </label>
+        <table id="notificationsTable"></table>
+      </section>
+
+      <section id="jobsSection" class="dashboard-section hidden">
+        <h2>Jobs</h2>
+        <label
+          >Client:
+          <input
+            type="text"
+            id="filterJobByClient"
+            placeholder="Search client by name..."
+          />
+        </label>
+
+        <label
+          >Provider:
+          <input
+            type="text"
+            id="filterJobByProvider"
+            placeholder="Search provider by name..."
+          />
+        </label>
+
+        <label
+          >Filter by Start Date:
+          <input type="date" id="filterJobByDate" />
+        </label>
+        <label>
+          Filter by Status:
+          <select id="filterByJobStatus">
+            <option value="">-- All --</option>
+            <option value="Scheduled">Scheduled</option>
+            <option value="Completed">Completed</option>
+            <option value="Cancelled">Cancelled</option>
+          </select>
+        </label>
+        <label>
+          Is Client Confirmed:
+          <input type="checkbox" id="filterByClientConfirmation" />
+        </label>
+        <table id="jobsTable"></table>
+      </section>
+    </main>
+
+    <script src="script.js"></script>
+  </body>
+</html>

@@ -1,0 +1,107 @@
+/* styles.css */
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f5faff;
+  color: #333;
+}
+
+header {
+  background-color: #3b82f6; /* warm blue */
+  color: white;
+  padding: 1rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  background-color: #e0f0ff;
+  padding: 0.5rem;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+nav button {
+  background-color: #3b82f6;
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: 500;
+  transition: background-color 0.3s ease;
+}
+
+nav button:hover {
+  background-color: #2563eb;
+}
+
+main {
+  padding: 1rem 2rem;
+}
+
+.section {
+  display: none;
+}
+
+.section.active {
+  display: block;
+}
+
+.hidden {
+  display: none;
+}
+
+h2 {
+  color: #1e40af;
+}
+
+.filter {
+  margin-bottom: 1rem;
+}
+
+.filter input, .filter select {
+  padding: 0.4rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 1rem;
+}
+
+table, th, td {
+  border: 1px solid #ccc;
+}
+
+th, td {
+  padding: 0.75rem;
+  text-align: left;
+}
+
+th {
+  background-color: #eff6ff;
+  color: #1e3a8a;
+}
+
+tr:nth-child(even) {
+  background-color: #f0f9ff;
+}
+
+tr:hover {
+  background-color: #dbeafe;
+}
+
+.no-data {
+  text-align: center;
+  font-style: italic;
+  color: #999;
+  margin-top: 1rem;
+}

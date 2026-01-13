@@ -1,0 +1,86 @@
+body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f8f9fa;
+    }
+header {
+      background-color: #407f46;
+      color: white;
+      padding: 1rem;
+      text-align: center;
+    }
+ #calendar {
+      max-width: 900px;
+      margin: 2rem auto;
+      padding: 1rem;
+      background-color: white;
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+    #notifications {
+      max-width: 900px;
+      margin: 1rem auto;
+      padding: 1rem;
+      background: white;
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+   #jobModal{
+      display: none; 
+      position: fixed; 
+      width: 55%;
+      top: 30%; 
+      left: 50%; 
+      transform: translate(-50%, -30%); 
+      background: white; 
+      padding: 20px; 
+      border-radius: 8px;
+      box-shadow: 0 0 15px rgba(0,0,0,0.2); z-index: 999;
+    }
+
+    #jobDetails {
+      line-height: 1.6;
+      font-size: 1rem;
+      color: #333;
+    }
+
+  #jobDetails p {
+    margin: 0.5rem 0;
+  }
+
+  #jobDetails strong {
+    font-size: 1.05rem;
+    color: #222;
+  }
+
+  #closeModalBtn {
+    float: right;
+  }
+ .notification:last-child {
+      border-bottom: none;
+    }
+
+    .notification {
+  background-color: #f0f0f0;
+  padding: 0.75rem;
+  margin-bottom: 0.5rem;
+  border-radius: 6px;
+  font-size: 1rem;
+  border-left: 5px solid #ccc;
+}
+
+.notification.quote-request {
+  border-left: 5px solid #00796b;
+  background-color: #e0f2f1;
+  color: #004d40;
+  font-weight: bold;
+}
+
+.notification.service-request {
+  border-left: 5px solid #ef6c00;
+  background-color: #fff3e0;
+  color: #e65100;
+  font-weight: bold;
+}
