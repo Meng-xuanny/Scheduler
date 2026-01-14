@@ -17,7 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Content Include="wwwroot\**\*.*" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="wwwroot/**/*.*" CopyToOutputDirectory="PreserveNewest" />
   </ItemGroup>
 
 </Project>
