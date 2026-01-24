@@ -81,7 +81,7 @@ document.addEventListener("DOMContentLoaded", async function () {
               {
                 method: "PUT",
                 headers: { "Content-Type": "application/json" },
-              }
+              },
             );
 
             if (!res.ok) throw new Error("Failed to complete job.");
@@ -202,7 +202,7 @@ function renderNotification(note, container) {
 
   div.classList.add(
     "notification",
-    isQuote ? "quote-request" : "service-request"
+    isQuote ? "quote-request" : "service-request",
   );
 
   const messageSpan = document.createElement("span");
@@ -227,7 +227,7 @@ function renderNotification(note, container) {
           method: "PUT",
           headers: { "Content-Type": "application/json" },
           body: JSON.stringify({ status: "Approved" }),
-        }
+        },
       );
 
       if (!statusRes.ok) {
@@ -239,7 +239,7 @@ function renderNotification(note, container) {
       const jobCreated = await createJob(
         note,
         note.serviceType,
-        note.preferredDate
+        note.preferredDate,
       );
 
       if (!jobCreated) {
@@ -270,7 +270,7 @@ function renderNotification(note, container) {
 
   const rearrangeBtn = createButton("Re-arrange", "#c62828", () => {
     showContactClientModal({
-      clientPhone: note.clientPhone,
+      // clientPhone: note.clientPhone,
       onConfirmed: () => showRearrangeForm(note, div),
     });
   });
@@ -355,7 +355,7 @@ function showRearrangeForm(note, div) {
           method: "PUT",
           headers: { "Content-Type": "application/json" },
           body: JSON.stringify({ status: "Re-arranged" }),
-        }
+        },
       );
 
       if (!statusRes.ok) {
